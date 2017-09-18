@@ -17,7 +17,7 @@
       <pubDate>Mon, 17 Apr 2017 18:26:45 +0000</pubDate>
       
       <guid>http://example.org/code/code/</guid>
-      <description> Software to survive in linux development  Efficient replacements to the horrible linux man pages, like cheat and tldr A good terminal editor (nope, not nano) like emacs or vim or more recent alternatives like (micro)[https://github.com/zyedidia/micro] Insta-terminal access, via the embedded terminal in dolphin or the drop-down magic of yakuake Heavy use of bash aliases scripts for automation  Software I develop  A video / image classification and description wrapper in python3 and tensorflow, which you can find in my github page  </description>
+      <description> Software to survive in linux development  Efficient replacements to the horrible linux man pages, like cheat and tldr A good terminal editor (nope, not nano) like emacs or vim or more recent alternatives like micro Insta-terminal access, via the embedded terminal in dolphin or the drop-down magic of yakuake Heavy use of bash aliases and scripts for automation  Software I develop  A video / image classification and description wrapper in python3 and tensorflow, which you can find in my github page  </description>
     </item>
     
   </channel>
