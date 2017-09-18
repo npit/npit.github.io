@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nikiforos Pittaras</title>
-    <link>http://example.org/</link>
+    <link>https://npit.github.io/</link>
     <description>Recent content on Nikiforos Pittaras</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Sep 2017 02:51:50 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://npit.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>http://example.org/post/welcome/</link>
+      <link>https://npit.github.io/post/welcome/</link>
       <pubDate>Tue, 12 Sep 2017 02:51:50 +0000</pubDate>
       
-      <guid>http://example.org/post/welcome/</guid>
+      <guid>https://npit.github.io/post/welcome/</guid>
       <description>Welcome to my website. It&amp;rsquo;s currently under construction, as websites often are.</description>
     </item>
     
     <item>
       <title>Code</title>
-      <link>http://example.org/code/code/</link>
+      <link>https://npit.github.io/code/code/</link>
       <pubDate>Mon, 17 Apr 2017 18:26:45 +0000</pubDate>
       
-      <guid>http://example.org/code/code/</guid>
+      <guid>https://npit.github.io/code/code/</guid>
       <description> Software to survive in linux development  Efficient replacements to the horrible linux man pages, like cheat and tldr A good terminal editor (nope, not nano) like emacs or vim or more recent alternatives like micro Insta-terminal access, via the embedded terminal in dolphin or the drop-down magic of yakuake Heavy use of bash aliases and scripts for automation  Software I develop  A video / image classification and description wrapper in python3 and tensorflow, which you can find in my github page  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://npit.github.io/about/</link>
       <pubDate>Mon, 17 Apr 2017 17:37:38 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://npit.github.io/about/</guid>
       <description>I am a computer scientist currently employed as a researcher at the Institute of Informatics and Telecommunications of the National Center for Scientific Research Demokritos. I am currently working on event detection from text and news sources, automatic summarization, big data and machine learning.
 You can get a pdf of my detailed cv here. Alternatively, you can check out a tl;dr version below.
 Education  MSc in Signal and Information Processing and Learning from the Informatics and Telecommunications department of the National and Kapodistrian University of Athens.</description>
