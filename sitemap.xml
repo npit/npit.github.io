@@ -18,6 +18,12 @@
   </url>
   
   <url>
+    <loc>https://npit.github.io/about/</loc>
+    <lastmod>2017-04-17T17:37:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://npit.github.io/code/</loc>
     <lastmod>2017-04-17T18:26:45+00:00</lastmod>
     <priority>0</priority>
