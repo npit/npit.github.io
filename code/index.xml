@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codes on Nikiforos Pittaras</title>
+    <link>http://example.org/code/</link>
+    <description>Recent content in Codes on Nikiforos Pittaras</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Apr 2017 18:26:45 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code</title>
+      <link>http://example.org/code/code/</link>
+      <pubDate>Mon, 17 Apr 2017 18:26:45 +0000</pubDate>
+      
+      <guid>http://example.org/code/code/</guid>
+      <description> Software to survive in linux development  Efficient replacements to the horrible linux man pages, like cheat and tldr A good terminal editor (nope, not nano) like emacs or vim or more recent alternatives like (micro)[https://github.com/zyedidia/micro] Insta-terminal access, via the embedded terminal in dolphin or the drop-down magic of yakuake Heavy use of bash aliases scripts for automation  Software I develop  A video / image classification and description wrapper in python3 and tensorflow, which you can find in my github page  </description>
+    </item>
+    
+  </channel>
+</rss>
