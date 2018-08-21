@@ -3,41 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://npit.github.io/post/welcome/</loc>
-    <lastmod>2017-09-12T02:51:50+00:00</lastmod>
+    <loc>https://npit.github.io/code/</loc>
+    <lastmod>2017-04-17T18:26:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://npit.github.io/code/</loc>
+    <loc>https://npit.github.io/links/</loc>
     <lastmod>2017-04-17T18:26:45+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://npit.github.io/about/</loc>
     <lastmod>2017-04-17T17:37:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://npit.github.io/about/</loc>
-    <lastmod>2017-04-17T17:37:38+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://npit.github.io/code/</loc>
-    <lastmod>2017-04-17T18:26:45+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://npit.github.io/</loc>
-    <lastmod>2017-09-12T02:51:50+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://npit.github.io/post/</loc>
-    <lastmod>2017-09-12T02:51:50+00:00</lastmod>
+    <lastmod>2017-04-17T18:26:45+00:00</lastmod>
     <priority>0</priority>
   </url>
   
