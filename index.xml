@@ -1,44 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nikiforos Pittaras</title>
-    <link>https://npit.github.io/</link>
+    <link>http://localhost:1313/website/</link>
     <description>Recent content on Nikiforos Pittaras</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Apr 2017 18:26:45 +0000</lastBuildDate>
-    
-	<atom:link href="https://npit.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright><atom:link href="http://localhost:1313/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code</title>
-      <link>https://npit.github.io/code/</link>
+      <link>http://localhost:1313/website/code/</link>
       <pubDate>Mon, 17 Apr 2017 18:26:45 +0000</pubDate>
       
-      <guid>https://npit.github.io/code/</guid>
-      <description>Software I developed, contribute to or mantain  A video classification wrapper in python3 and tensorflow (github). The bde event detection module (github) and its corresponding docker image (github, docker hub).  Software I use and like Productivity  Man pages for human beings: cheat, tldr and how2. RSI-prevention with good typing and modal editing with vim. Vimify browser with cVim and wasavi. Editor war stalemate: spacemacs. Omni-present terminal with dolphin or yakuake F-key magic.</description>
+      <guid>http://localhost:1313/website/code/</guid>
+      <description>Software I developed, contribute to or mantain  A video classification wrapper in python3 and tensorflow (github). The bde event detection module (github) and its corresponding docker image (github, docker hub). An text classification with semantic information module(github).  Software I use and like Productivity  Man pages for human beings: cheat, tldr and how2. RSI-prevention with good typing and modal editing with vim. Vimify browser with cVim and wasavi. Editor war stalemate: spacemacs.</description>
     </item>
     
     <item>
       <title>Links</title>
-      <link>https://npit.github.io/links/</link>
-      <pubDate>Mon, 17 Apr 2017 18:26:45 +0000</pubDate>
+      <link>http://localhost:1313/website/links/</link>
+      <pubDate>Mon, 17 Apr 2017 17:37:38 +0000</pubDate>
       
-      <guid>https://npit.github.io/links/</guid>
-      <description> Math  3Blue1Brown Numberphile Mathologer Spurious Correlations  Physics  PBS Spacetime Sixty Symbols  AI Safety  Robert Miles Universal Paperclips  </description>
+      <guid>http://localhost:1313/website/links/</guid>
+      <description>Math  3Blue1Brown Numberphile Mathologer Spurious Correlations  Physics  PBS Spacetime Sixty Symbols  AI Safety  Robert Miles Universal Paperclips  Gamedev  Godot Engine  </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://npit.github.io/about/</link>
-      <pubDate>Mon, 17 Apr 2017 17:37:38 +0000</pubDate>
+      <link>http://localhost:1313/website/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://npit.github.io/about/</guid>
+      <guid>http://localhost:1313/website/about/</guid>
       <description>I am a computer scientist currently pursuing my PhD in Machine Learning and working as a research associate in the Institute of Informatics and Telecommunications in NCSR Demokritos.
-You can get a pdf of my detailed cv in English (Updated 11-2018) and Greek (Updated 11-2017).
+You can get a pdf of my detailed cv in English (Updated 3-2021).
 Alternatively, check out a tl;dr version below.
-Education  PhD in machine learning, from the Informatics and Telecommunications department (DIT) of the National and Kapodistrian University of Athens (NKUA), co-supervised by the Institute of Informatics and Telecommunications (IIT) of the National Center for Scientific Research Demokritos (NCSRD) (in progress).</description>
+Education   PhD in machine learning, from the Informatics and Telecommunications department (DIT) of the National and Kapodistrian University of Athens (NKUA), co-supervised by the Institute of Informatics and Telecommunications (IIT) of the National Center for Scientific Research Demokritos (NCSRD), funded by the St.</description>
     </item>
     
   </channel>
