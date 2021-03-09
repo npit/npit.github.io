@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Nikiforos Pittaras</title>
-    <link>http://localhost:1313/website/topics/</link>
+    <link>https://npit.gitlab.io/website/topics/</link>
     <description>Recent content in Topics on Nikiforos Pittaras</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020. All rights reserved.</copyright><atom:link href="http://localhost:1313/website/topics/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright><atom:link href="https://npit.gitlab.io/website/topics/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

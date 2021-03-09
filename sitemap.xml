@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/website/code/</loc>
+    <loc>https://npit.gitlab.io/website/code/</loc>
     <lastmod>2017-04-17T18:26:45+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/links/</loc>
+    <loc>https://npit.gitlab.io/website/links/</loc>
     <lastmod>2017-04-17T17:37:38+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/website/about/</loc>
+    <loc>https://npit.gitlab.io/website/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/website/</loc>
+    <loc>https://npit.gitlab.io/website/</loc>
   </url><url>
-    <loc>http://localhost:1313/website/tags/</loc>
+    <loc>https://npit.gitlab.io/website/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/website/topics/</loc>
+    <loc>https://npit.gitlab.io/website/topics/</loc>
   </url>
 </urlset>
