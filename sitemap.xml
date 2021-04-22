@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://npit.gitlab.io/website/code/</loc>
+    <loc>https://npit.github.io/code/</loc>
     <lastmod>2017-04-17T18:26:45+00:00</lastmod>
   </url><url>
-    <loc>https://npit.gitlab.io/website/links/</loc>
+    <loc>https://npit.github.io/links/</loc>
     <lastmod>2017-04-17T17:37:38+00:00</lastmod>
   </url><url>
-    <loc>https://npit.gitlab.io/website/about/</loc>
+    <loc>https://npit.github.io/about/</loc>
   </url><url>
-    <loc>https://npit.gitlab.io/website/</loc>
+    <loc>https://npit.github.io/</loc>
   </url><url>
-    <loc>https://npit.gitlab.io/website/tags/</loc>
+    <loc>https://npit.github.io/tags/</loc>
   </url><url>
-    <loc>https://npit.gitlab.io/website/topics/</loc>
+    <loc>https://npit.github.io/topics/</loc>
   </url>
 </urlset>
