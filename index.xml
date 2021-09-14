@@ -13,7 +13,7 @@
       <pubDate>Mon, 17 Apr 2017 18:26:45 +0000</pubDate>
       
       <guid>https://npit.github.io/code/</guid>
-      <description>Software I developed, contribute to or mantain  A video classification wrapper in python3 and tensorflow (github). The bde event detection module (github) and its corresponding docker image (github, docker hub). An text classification with semantic information module(github).  Software I use and like Productivity  Man pages for human beings: cheat, tldr and how2. RSI-prevention with good typing and modal editing with vim. Vimify browser with cVim and wasavi. Editor war stalemate: spacemacs.</description>
+      <description>Software I developed, contribute to or mantain  A video classification wrapper in python3 and tensorflow (github). The bde event detection module (github) and its corresponding docker image (github, docker hub). A text classification with semantic information module(github).  Software I use and like Productivity  Man pages for human beings: cheat, tldr and how2. RSI-prevention with good typing and modal editing with vim. Vimify browser with cVim and wasavi. Editor war stalemate: spacemacs.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 17 Apr 2017 17:37:38 +0000</pubDate>
       
       <guid>https://npit.github.io/links/</guid>
-      <description>Math  3Blue1Brown Numberphile Mathologer Spurious Correlations  Physics  PBS Spacetime Sixty Symbols  AI Safety  Robert Miles Universal Paperclips  Gamedev  Godot Engine  </description>
+      <description>Math  3Blue1Brown Numberphile Mathologer Spurious Correlations  CS  The missing semester lectures  Physics  PBS Spacetime Sixty Symbols  AI Safety  Robert Miles Universal Paperclips  Gamedev  Godot Engine  </description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@
       
       <guid>https://npit.github.io/about/</guid>
       <description>I am a computer scientist currently pursuing my PhD in Machine Learning and working as a research associate in the Institute of Informatics and Telecommunications in NCSR Demokritos.
-You can get a pdf of my detailed cv in English (Updated 3-2021).
+You can get a pdf of my detailed cv in English (Updated 9-2021).
 Alternatively, check out a tl;dr version below.
 Education   PhD in machine learning, from the Informatics and Telecommunications department (DIT) of the National and Kapodistrian University of Athens (NKUA), co-supervised by the Institute of Informatics and Telecommunications (IIT) of the National Center for Scientific Research Demokritos (NCSRD), funded by the St.</description>
     </item>
