@@ -8,6 +8,16 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright><atom:link href="https://npit.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Phd</title>
+      <link>https://npit.github.io/phd/</link>
+      <pubDate>Fri, 11 Feb 2022 18:26:45 +0000</pubDate>
+      
+      <guid>https://npit.github.io/phd/</guid>
+      <description>PhD Thesis Summary My thesis investigates Machine and Deep Learning methods that consider curated and structured information, existing in external repositories such as ontologies, knowledge bases and semantic graphs. I focused on the data representation component of a learning system, i.e. the mechanism of how real world objects are represented in the computation. Different tasks where evaluated (such as classification, summarization and clustering)
+recent methods for Machine Learning: i.e., Artificial Intelligence Methods built from data.</description>
+    </item>
+    
+    <item>
       <title>Code</title>
       <link>https://npit.github.io/code/</link>
       <pubDate>Mon, 17 Apr 2017 18:26:45 +0000</pubDate>
@@ -22,7 +32,7 @@
       <pubDate>Mon, 17 Apr 2017 17:37:38 +0000</pubDate>
       
       <guid>https://npit.github.io/links/</guid>
-      <description>Math  3Blue1Brown Numberphile Mathologer Spurious Correlations  CS  The missing semester lectures  Physics  PBS Spacetime Sixty Symbols  AI Safety  lesswrong Robert Miles Universal Paperclips  Gamedev  Godot Engine  </description>
+      <description>Math  3Blue1Brown Numberphile Mathologer Spurious Correlations  CS  The missing semester lectures  Physics  PBS Spacetime Sixty Symbols  AI &amp;amp; Machine Learning  The bitter lesson  AI Safety  lesswrong Robert Miles Universal Paperclips  Gamedev  Godot Engine  </description>
     </item>
     
     <item>
