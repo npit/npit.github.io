@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nikiforos Pittaras</title>
+    <title>About on Nikiforos Pittaras</title>
     <link>https://npit.github.io/</link>
-    <description>Recent content on Nikiforos Pittaras</description>
+    <description>Recent content in About on Nikiforos Pittaras</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2020. All rights reserved.</copyright><atom:link href="https://npit.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Phd</title>
-      <link>https://npit.github.io/phd/</link>
-      <pubDate>Fri, 11 Feb 2022 18:26:45 +0000</pubDate>
+      <title>AGI Safety Fundamentals Course 2022 project</title>
+      <link>https://npit.github.io/agisf2022/</link>
+      <pubDate>Thu, 14 Jul 2022 17:37:38 +0000</pubDate>
       
-      <guid>https://npit.github.io/phd/</guid>
-      <description>PhD Thesis Summary My thesis investigates Machine and Deep Learning methods that consider curated and structured information, existing in external repositories such as ontologies, knowledge bases and semantic graphs. I focused on the data representation component of a learning system, i.e. the mechanism of how real world objects are represented in the computation. Different tasks where evaluated (such as classification, summarization and clustering)
-recent methods for Machine Learning: i.e., Artificial Intelligence Methods built from data.</description>
+      <guid>https://npit.github.io/agisf2022/</guid>
+      <description>In the 2022 AGI Safety Fundamentals course I worked on toy investigations on deceptively aligned agents in a toy environment.
+You can find relevant code, results and ideas for future work / extensions in this gitlab repository.</description>
+    </item>
+    
+    <item>
+      <title>AI Safety Camp 2022 project</title>
+      <link>https://npit.github.io/aisc6/</link>
+      <pubDate>Thu, 14 Jul 2022 17:37:38 +0000</pubDate>
+      
+      <guid>https://npit.github.io/aisc6/</guid>
+      <description>(To be updated)</description>
     </item>
     
     <item>
@@ -23,7 +32,7 @@ recent methods for Machine Learning: i.e., Artificial Intelligence Methods built
       <pubDate>Mon, 17 Apr 2017 18:26:45 +0000</pubDate>
       
       <guid>https://npit.github.io/code/</guid>
-      <description>Software I use and like Productivity  Man pages for human beings: cheat, tldr and how2. RSI-prevention with good typing and modal editing with vim. Vimify browser with vimvixen, cVim and wasavi. Editor war stalemate: spacemacs. Omni-present terminal with dolphin or yakuake F-key magic. Terminal multiplexing with tmux. Screenshot goodness with flameshot.  Leisure  Terminal youtube player: mps-youtube  </description>
+      <description>Software I use and like Productivity Man pages for human beings: cheat, tldr and how2. RSI-prevention with good typing and modal editing with vim. Vimify browser with vimvixen, cVim and wasavi. Editor war stalemate: spacemacs. Omni-present terminal with dolphin or yakuake F-key magic. Terminal multiplexing with tmux. Screenshot goodness with flameshot. Leisure Terminal youtube player: mps-youtube </description>
     </item>
     
     <item>
@@ -32,7 +41,7 @@ recent methods for Machine Learning: i.e., Artificial Intelligence Methods built
       <pubDate>Mon, 17 Apr 2017 17:37:38 +0000</pubDate>
       
       <guid>https://npit.github.io/links/</guid>
-      <description>Math  3Blue1Brown Numberphile Mathologer Spurious Correlations  CS  The missing semester lectures  Physics  PBS Spacetime Sixty Symbols  AI &amp;amp; Machine Learning  The bitter lesson  AI Safety  lesswrong Robert Miles Universal Paperclips  Gamedev  Godot Engine  </description>
+      <description>Math 3Blue1Brown Numberphile Mathologer Spurious Correlations CS The missing semester lectures Physics PBS Spacetime Sixty Symbols AI &amp;amp; Machine Learning The bitter lesson Distill AI Safety lesswrong Robert Miles Universal Paperclips Gamedev Godot Engine </description>
     </item>
     
     <item>
@@ -41,10 +50,10 @@ recent methods for Machine Learning: i.e., Artificial Intelligence Methods built
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://npit.github.io/about/</guid>
-      <description>I am a computer scientist currently working at LANGaware and collaborating as a research associate in the Institute of Informatics and Telecommunications in NCSR Demokritos.
-You can get a 3-page and a 6-page of my CV in English (Updated 01-2022).
+      <description>I am a Machine Learning scientist currently working as a postdoctoral researcher at NCSR Demokritos and as an ML Engineer at LANGaware. Additionally, I&amp;rsquo;m conducting independent research on AI Safety and Alignment.
+You can get a 3-page and a 6-page version of my CV in English (Updated 04-2022).
 Alternatively, check out a tl;dr version below.
-Education   PhD in machine learning, from the Informatics and Telecommunications department (DIT) of the National and Kapodistrian University of Athens (NKUA), co-supervised by the Institute of Informatics and Telecommunications (IIT) of the National Center for Scientific Research Demokritos (NCSRD), funded by the St.</description>
+Education PhD in machine learning, from the Informatics and Telecommunications department (DIT) of the National and Kapodistrian University of Athens (NKUA), co-supervised by the Institute of Informatics and Telecommunications (IIT) of the National Center for Scientific Research Demokritos (NCSRD), funded by the St.</description>
     </item>
     
   </channel>
