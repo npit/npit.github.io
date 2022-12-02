@@ -23,7 +23,16 @@ You can find relevant code, results and ideas for future work / extensions in th
       <pubDate>Thu, 14 Jul 2022 17:37:38 +0000</pubDate>
       
       <guid>https://npit.github.io/aisc6/</guid>
-      <description>In AI Safety Camp 2022 I worked on learning and penalizing betrayal in agent communications in an RL setting. A preprint describing research work and empirical outcomes can be found here.</description>
+      <description>In AI Safety Camp 2022 I worked on learning and penalizing betrayal in agent communications in an RL setting. A workshop paper describing research work and empirical outcomes can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://npit.github.io/publications/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://npit.github.io/publications/</guid>
+      <description>Journals N. Pittaras, G. Giannakopoulos, G. Papadakis, V. Karkaletsis,&amp;ldquo;Text classification with semantically enriched word embeddings&amp;rdquo;, JNLE Special Issue: Informing Neural Architectures for NLP with Linguistic and background Knowledge, 2020 📄 F. Markatopoulou, V. Mezaris, N. Pittaras, I. Patras, &amp;ldquo;Local Features and a Two-Layer Stacking Architecture for Semantic Concept Detection in Video&amp;rdquo;, IEEE TETC, 2015 📄 . Books N. Pittaras, S. Montanelli, G. Giannakopoulos, A. Ferrara, V. Karkaletsis, &amp;ldquo;Crowdsourcing in Single-document Summary Evaluation: the Argo Way&amp;rdquo;, Multilingual Text Analysis: Challenges, Models &amp;amp; Approaches, World Scientific Publishers, 2020 📄</description>
     </item>
     
     <item>
