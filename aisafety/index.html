@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en-us">
+  <head>
+    <title>AI Safety Activities // Nikiforos Pittaras</title>
+    <link rel="shortcut icon" href="https://npit.github.io/img/favicon.ico" />
+    <meta charset="utf-8" />
+    <meta name="generator" content="Hugo 0.110.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Nikiforos Pittaras" />
+    <meta name="description" content="" />
+    <link rel="stylesheet" href="https://npit.github.io/css/main.min.cff735bb13b76a5f71b75a89695ae8a2eb3fedc0cac95bac948d0c92e9f10190.css" />
+    <link 
+  href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css" 
+  rel="stylesheet"  type='text/css'>
+
+    
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="AI Safety Activities"/>
+<meta name="twitter:description" content="I am working to develop the &ldquo;Goals, Methods and Failure Causes&rdquo; (GMF) taxonomy for AI incidents, in the context of the AI Incident Database. You can find a status summary of the project on this AAAI SafeAI2023 paper. In AI Safety Camp 2022 I worked on learning and penalizing betrayal patterns in agent communications in an RL setting of symmetric &ldquo;observer&rdquo; - &ldquo;gatherer&rdquo; agents. Conducted research and resulting empirical outcomes can be found in this Neurips2022 MLSafety workshop paper."/>
+
+    <meta property="og:title" content="AI Safety Activities" />
+<meta property="og:description" content="I am working to develop the &ldquo;Goals, Methods and Failure Causes&rdquo; (GMF) taxonomy for AI incidents, in the context of the AI Incident Database. You can find a status summary of the project on this AAAI SafeAI2023 paper. In AI Safety Camp 2022 I worked on learning and penalizing betrayal patterns in agent communications in an RL setting of symmetric &ldquo;observer&rdquo; - &ldquo;gatherer&rdquo; agents. Conducted research and resulting empirical outcomes can be found in this Neurips2022 MLSafety workshop paper." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://npit.github.io/aisafety/" /><meta property="article:section" content="" />
+<meta property="article:published_time" content="2023-05-12T17:37:38+00:00" />
+<meta property="article:modified_time" content="2023-05-12T17:37:38+00:00" />
+
+
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="title">Nikiforos Pittaras</div> <br/>
+      <a href="https://npit.github.io/"><img class="app-header-avatar" src="https://npit.github.io/img/cropped.png" alt="Nikiforos Pittaras" /></a>
+
+      <p> </p>
+      <hr>
+      <nav class="app-header-menu">
+
+          <a class="app-header-menu-item" href="https://npit.github.io/about"><i class='fa fa-user fa-fw'></i>    About</a>
+          
+             <br > 
+          
+
+          <a class="app-header-menu-item" href="https://npit.github.io/code"><i class='fa fa-code fa-fw'></i>    Code</a>
+          
+             <br > 
+          
+
+          <a class="app-header-menu-item" href="https://npit.github.io/links"><i class='fa fa-link fa-fw'></i>    Links</a>
+          
+             <br > 
+          
+
+          <a class="app-header-menu-item" href="https://npit.github.io/publications"><i class='fa fa-book fa-fw'></i>    Publications</a>
+          
+      </nav>
+      <hr>
+      <div class="app-header-social">
+        
+          <a href="https://github.com/npit" target="_blank" rel="noreferrer noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
+  <title>Github</title>
+  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+</svg>
+          </a>
+        
+          <a href="https://scholar.google.gr/citations?user=mSiOWbEAAAAJ&amp;hl=en" target="_blank" rel="noreferrer noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-book">
+  <title>scholar</title>
+  <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+</svg>
+          </a>
+        
+          <a href="https://linkedin.com/in/nikiforos-pittaras-5b954062" target="_blank" rel="noreferrer noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-linkedin">
+  <title>linkedin</title>
+  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>
+</svg>
+          </a>
+        
+          <a href="https://stackoverflow.com/users/3532255/npit" target="_blank" rel="noreferrer noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-layers">
+  <title>stackoverflow</title>
+  <polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline>
+</svg>
+          </a>
+        
+          <a href="https://gitlab.com/npit" target="_blank" rel="noreferrer noopener">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-gitlab">
+  <title>gitlab</title>
+  <path d="M22.65 14.39L12 22.13 1.35 14.39a.84.84 0 0 1-.3-.94l1.22-3.78 2.44-7.51A.42.42 0 0 1 4.82 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.49h8.1l2.44-7.51A.42.42 0 0 1 18.6 2a.43.43 0 0 1 .58 0 .42.42 0 0 1 .11.18l2.44 7.51L23 13.45a.84.84 0 0 1-.35.94z"></path>
+</svg>
+          </a>
+        
+      <hr>
+      </div>
+    </header>
+    <main class="app-container">
+      
+  <article class="post">
+    <header class="post-header">
+      <h1 class ="post-title">AI Safety Activities</h1>
+    </header>
+    <div class="post-content">
+      <ul>
+<li>I am working to develop the &ldquo;Goals, Methods and Failure Causes&rdquo; (GMF) taxonomy for AI incidents, in the context of the <a href="https://incidentdatabase.ai/">AI Incident Database</a>. You can find a status summary of the project on this <a href="https://arxiv.org/pdf/2211.07280.pdf">AAAI SafeAI2023 paper</a>.</li>
+<li>In <a href="https://aisafety.camp">AI Safety Camp 2022</a> I worked on learning and penalizing betrayal patterns in agent communications in an RL setting of symmetric &ldquo;observer&rdquo; - &ldquo;gatherer&rdquo; agents. Conducted research and resulting empirical outcomes can be found in this <a href="https://openreview.net/forum?id=hTPsrAdtIhT">Neurips2022 MLSafety workshop paper</a>. The codebase utilized is available in <a href="https://github.com/npit/sog">github</a>.</li>
+<li>In the <a href="https://www.eacambridge.org/agi-safety-fundamentals">2022 AGI Safety Fundamentals course</a> I worked on toy investigations on deceptively aligned agents in a toy environment. You can find relevant code, results and ideas for future work / extensions in this <a href="https://gitlab.com/npit/decal/-/tree/develop">gitlab repository</a>.</li>
+</ul>
+
+    </div>
+    <div class="post-footer">
+      
+    </div>
+  </article>
+
+    </main>
+  </body>
+</html>
