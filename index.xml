@@ -22,7 +22,7 @@
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://npit.github.io/publications/</guid>
-      <description>Manually curated publication list below (last updated May 2023; see google scholar for a noisy but up-to-date alternative):
+      <description>Manually curated publication list below (periodically updated; see google scholar for a noisy but up-to-date alternative):
 Journals N. Pittaras, G. Giannakopoulos, P. Stamatopoulos, V. Karkaletsis, &amp;ldquo;Content-based and Knowledge-enriched Representations for Classification Across Modalities: a Survey&amp;rdquo;, ACM Computing Surveys (2023) 📄 .
 N. Pittaras, G. Giannakopoulos, G. Papadakis, V. Karkaletsis,&amp;ldquo;Text classification with semantically enriched word embeddings&amp;rdquo;, JNLE Special Issue: Informing Neural Architectures for NLP with Linguistic and background Knowledge, 2020 📄 F.</description>
     </item>
@@ -51,8 +51,7 @@ N. Pittaras, G. Giannakopoulos, G. Papadakis, V. Karkaletsis,&amp;ldquo;Text cla
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://npit.github.io/about/</guid>
-      <description>(Updated December 2024)
-I am a Machine Learning scientist, currently working on investigating AI incidents in the context of AI Safety.
+      <description>I am a Machine Learning scientist, currently working on prompt safety evaluations for large language models.
 In the past I&amp;rsquo;ve been involved in ML / AI Engineering and R &amp;amp; D roles applied on different types of data (text, audio, images, video, tabular, multimodal data, etc.) for a diverse set of tasks (Argument Mining, Event Detection, Summarization, Video Concept Detection, Neurodegenerative Disease Prediction, Network Optimization, Time Series Forecasting and others).</description>
     </item>
     
